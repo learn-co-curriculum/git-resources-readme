@@ -1,5 +1,7 @@
 # Lots of Resources
 
+Take a look at these resources if you want to learn more. They're optional but great to make note of and come back to.
+
 * Git Basics ([Gist of Git resources](https://gist.github.com/aviflombaum/0d1c335291350a2e4036))
   - [Getting Started 1](http://git-scm.com/book/en/Getting-Started-A-Short-History-of-Git)
   - [Getting Started 2](http://git-scm.com/book/en/Getting-Started-About-Version-Control)
