@@ -27,3 +27,5 @@ Take a look at these resources if you want to learn more. They're optional but g
     - [Sublime MD Preview Plugin](https://github.com/revolunet/sublimetext-markdown-preview)
     - [Mou MD writer app](http://mouapp.com/)
     - [Atom text editor](https://atom.io) has a markdown preview built in.
+
+<a href='https://learn.co/lessons/git-resources-readme' data-visibility='hidden'>View this lesson on Learn.co</a>
